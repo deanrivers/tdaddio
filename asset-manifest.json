@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/tdaddio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/tdaddio/static/js/main.b2d9852f.chunk.js",
-    "main.js.map": "/tdaddio/static/js/main.b2d9852f.chunk.js.map",
-    "runtime-main.js": "/tdaddio/static/js/runtime-main.5c8410b7.js",
-    "runtime-main.js.map": "/tdaddio/static/js/runtime-main.5c8410b7.js.map",
-    "static/js/2.5c57399d.chunk.js": "/tdaddio/static/js/2.5c57399d.chunk.js",
-    "static/js/2.5c57399d.chunk.js.map": "/tdaddio/static/js/2.5c57399d.chunk.js.map",
-    "static/js/3.24334b41.chunk.js": "/tdaddio/static/js/3.24334b41.chunk.js",
-    "static/js/3.24334b41.chunk.js.map": "/tdaddio/static/js/3.24334b41.chunk.js.map",
+    "main.css": "/tdaddio/static/css/main.77c4879b.chunk.css",
+    "main.js": "/tdaddio/static/js/main.ae871ccf.chunk.js",
+    "main.js.map": "/tdaddio/static/js/main.ae871ccf.chunk.js.map",
+    "runtime-main.js": "/tdaddio/static/js/runtime-main.602bba84.js",
+    "runtime-main.js.map": "/tdaddio/static/js/runtime-main.602bba84.js.map",
+    "static/css/2.3e35cbb6.chunk.css": "/tdaddio/static/css/2.3e35cbb6.chunk.css",
+    "static/js/2.9228f511.chunk.js": "/tdaddio/static/js/2.9228f511.chunk.js",
+    "static/js/2.9228f511.chunk.js.map": "/tdaddio/static/js/2.9228f511.chunk.js.map",
+    "static/js/3.7e045491.chunk.js": "/tdaddio/static/js/3.7e045491.chunk.js",
+    "static/js/3.7e045491.chunk.js.map": "/tdaddio/static/js/3.7e045491.chunk.js.map",
     "index.html": "/tdaddio/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/tdaddio/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5c57399d.chunk.js.LICENSE.txt": "/tdaddio/static/js/2.5c57399d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tdaddio/static/media/logo.6ce24c58.svg"
+    "static/css/2.3e35cbb6.chunk.css.map": "/tdaddio/static/css/2.3e35cbb6.chunk.css.map",
+    "static/css/main.77c4879b.chunk.css.map": "/tdaddio/static/css/main.77c4879b.chunk.css.map",
+    "static/js/2.9228f511.chunk.js.LICENSE.txt": "/tdaddio/static/js/2.9228f511.chunk.js.LICENSE.txt",
+    "static/media/birthday-cake.4dc731bf.svg": "/tdaddio/static/media/birthday-cake.4dc731bf.svg",
+    "static/media/image_1.32bebe5f.jpg": "/tdaddio/static/media/image_1.32bebe5f.jpg",
+    "static/media/image_2.723d69a8.jpg": "/tdaddio/static/media/image_2.723d69a8.jpg",
+    "static/media/image_3.b9c4d9b8.jpg": "/tdaddio/static/media/image_3.b9c4d9b8.jpg",
+    "static/media/song_1.b2fdb8dc.mp3": "/tdaddio/static/media/song_1.b2fdb8dc.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c8410b7.js",
-    "static/js/2.5c57399d.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b2d9852f.chunk.js"
+    "static/js/runtime-main.602bba84.js",
+    "static/css/2.3e35cbb6.chunk.css",
+    "static/js/2.9228f511.chunk.js",
+    "static/css/main.77c4879b.chunk.css",
+    "static/js/main.ae871ccf.chunk.js"
   ]
 }
