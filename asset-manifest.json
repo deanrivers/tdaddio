@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tdaddio/static/css/main.77c4879b.chunk.css",
-    "main.js": "/tdaddio/static/js/main.ae871ccf.chunk.js",
-    "main.js.map": "/tdaddio/static/js/main.ae871ccf.chunk.js.map",
+    "main.css": "/tdaddio/static/css/main.2d85d659.chunk.css",
+    "main.js": "/tdaddio/static/js/main.e83a3baa.chunk.js",
+    "main.js.map": "/tdaddio/static/js/main.e83a3baa.chunk.js.map",
     "runtime-main.js": "/tdaddio/static/js/runtime-main.602bba84.js",
     "runtime-main.js.map": "/tdaddio/static/js/runtime-main.602bba84.js.map",
     "static/css/2.3e35cbb6.chunk.css": "/tdaddio/static/css/2.3e35cbb6.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.7e045491.chunk.js.map": "/tdaddio/static/js/3.7e045491.chunk.js.map",
     "index.html": "/tdaddio/index.html",
     "static/css/2.3e35cbb6.chunk.css.map": "/tdaddio/static/css/2.3e35cbb6.chunk.css.map",
-    "static/css/main.77c4879b.chunk.css.map": "/tdaddio/static/css/main.77c4879b.chunk.css.map",
+    "static/css/main.2d85d659.chunk.css.map": "/tdaddio/static/css/main.2d85d659.chunk.css.map",
     "static/js/2.9228f511.chunk.js.LICENSE.txt": "/tdaddio/static/js/2.9228f511.chunk.js.LICENSE.txt",
     "static/media/birthday-cake.4dc731bf.svg": "/tdaddio/static/media/birthday-cake.4dc731bf.svg",
     "static/media/image_1.32bebe5f.jpg": "/tdaddio/static/media/image_1.32bebe5f.jpg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.602bba84.js",
     "static/css/2.3e35cbb6.chunk.css",
     "static/js/2.9228f511.chunk.js",
-    "static/css/main.77c4879b.chunk.css",
-    "static/js/main.ae871ccf.chunk.js"
+    "static/css/main.2d85d659.chunk.css",
+    "static/js/main.e83a3baa.chunk.js"
   ]
 }
